@@ -1,0 +1,30 @@
+Proporción de muertes maternas, según momento de fallecimiento;;;;;;;
+Año;Puerperio;Parto;Embarazo;Desconocido;total;;
+2021;70.8;4.2;25;0;100;;
+2022;62.5;0;37.5;0;100;;
+2023;50;0;50;0;100;;
+2024*;100;0;0;0;100;;
+;;;;;;;
+;;;;;;;
+Proporción de muertes maternas, según lugar de fallecimiento;;;;;;;
+Año;MINSAA;ESSALUD;FF.AA/FFPP/PNP;Privado;Domicilio;Trayecto;Otro
+2021;62.5;4.2;0;4.2;12.5;16.7;0
+2022;25;37.5;0;0;0;37.5;0
+2023;66.7;0;0;0;16.7;16.7;0
+2024*;100;0;0;0;0;0;0
+;;;;;;;
+;;;;;;;
+Proporción de muertes maternas, según edad;;;;;;;
+;;;;;;;
+Año;<19 años;20- 35 años;>35 años;;;;
+2021;8.3;58.3;33.3;;;;
+2022;12.5;62.5;25;;;;
+2023;NaN;50;50;;;;
+2024*;NaN;100;NaN;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+Año;2021;2022;2023;2024;;;
+M. Materna tardía;15;16;15;2;;;
+M. Materna ;493;291;264;77;;;
+Total anual;508;307;279;79;;;
